@@ -2,6 +2,7 @@ package com.kerware.simulateur;
 
 public class AdaptateurSimulateur implements ICalculateurImpot {
 
+    //test automatisation
     private Simulateur simulateur = new Simulateur();
 
     private int revenusNetDecl1 = 0;
